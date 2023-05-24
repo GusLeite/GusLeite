@@ -1,3 +1,4 @@
+<img width=100% src="Studio_Project_V1.gif" />
 ### Hi there 👋
 
 <!--
